@@ -127,8 +127,6 @@ a:hover, a:link {
   width: 45px;
   height: 45px;
   border-radius: 6px;
-  background-color: orange;
-  background: url("./colorful.png") no-repeat center;
   background-size: 45px;
 }
 .flex_item:hover {
@@ -138,4 +136,52 @@ a:hover, a:link {
 .flex_item:hover .logo {
   transition-delay: 0.2s;
   background-size: 60px;
+}
+.logo_1 {
+  background: url("../static/Group_16.png") no-repeat center;
+  background-size: 45px;
+}
+.logo_2 {
+  background: url("../static/Group_17.png") no-repeat center;
+  background-size: 45px;
+}
+.logo_3 {
+  background: url("../static/Group_8.png") no-repeat center;
+  background-size: 45px;
+}
+.logo_4 {
+  background: url("../static/Group_19.png") no-repeat center;
+  background-size: 45px;
+}
+.logo_5 {
+  background: url("../static/Group_20.png") no-repeat center;
+  background-size: 45px;
+}
+.logo_6 {
+  background: url("../static/Group_21.png") no-repeat center;
+  background-size: 45px;
+}
+.logo_7 {
+  background: url("../static/Group_22.png") no-repeat center;
+  background-size: 45px;
+}
+.logo_8 {
+  background: url("../static/Group_27.png") no-repeat center;
+  background-size: 45px;
+}
+.logo_9 {
+  background: url("../static/Group_26.png") no-repeat center;
+  background-size: 45px;
+}
+.logo_10 {
+  background: url("../static/Group_25.png") no-repeat center;
+  background-size: 45px;
+}
+.logo_11 {
+  background: url("../static/Group_24.png") no-repeat center;
+  background-size: 45px;
+}
+.logo_12 {
+  background: url("../static/Group_23.png") no-repeat center;
+  background-size: 45px;
 }
